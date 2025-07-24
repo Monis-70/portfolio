@@ -34,9 +34,9 @@ const Hero = () => {
   };
 
   const socialLinks = [
-    { icon: FaLinkedin, url: "https://www.linkedin.com/in/shams-ali-shaikh-27194425a", color: "bg-blue-600" },
-    { icon: FaGithub, url: "https://github.com/Shaikhshams17", color: "bg-gray-800" },
-    { icon: FaInstagram, url: "https://www.instagram.com/shamsss_17", color: "bg-pink-600" },
+    { icon: FaLinkedin, url: "https://www.linkedin.com/in/monis-mansuri-b78b05283", color: "bg-blue-600" },
+    { icon: FaGithub, url: "https://github.com/Monis-70", color: "bg-gray-800" },
+    { icon: FaInstagram, url: "https://www.instagram.com/Haider_21_70", color: "bg-pink-600" },
   ];
 
   // Variants for staggered animations

@@ -6,23 +6,24 @@ import { GraduationCap, School, BookOpen } from "lucide-react";
 const educationData = [
   {
     id: 1,
-    institution: "Gharda Institute of Technology",
-    degree: "B.Tech in Computer Science",
-    year: "2020 - 2024",
-    description: "8.9 CGPI",
+    institution: "Xavier Institute of Engineering",
+    degree: "B.Tech in Information Technology",
+    year: "2022 - 2026",
+    description: "7.5 CGPI",
     Icon: GraduationCap,
     highlights: [
     "Skilled in MERN stack development",
     "Experienced in CI/CD and cloud DevOps",
-    "Led developer team for campus app"
+    "Led developer team for campus app",
+    "Python and ML projects"
     ]
   },
   {
     id: 2,
-    institution: "HDA Junior College",
+    institution: "Marceline Junior College",
     degree: "Higher Secondary Certificate",
-    year: "2018 - 2020",
-    description: "72%",
+    year: "2020 - 2022",
+    description: "56",
     Icon: School,
     highlights: [
       "Computer Science focus",
@@ -32,10 +33,10 @@ const educationData = [
   },
   {
     id: 3,
-    institution: "Iqra English Medium School",
+    institution: "Holy Cross High School",
     degree: "Secondary School Certificate",
-    year: "2016 - 2018",
-    description: "75%",
+    year: "2008 - 2020",
+    description: "73%",
     Icon: BookOpen,
     highlights: [
       "Early programming experiments",

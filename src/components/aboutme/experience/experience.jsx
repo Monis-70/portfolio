@@ -7,35 +7,35 @@ const experienceData = [
   {
     id: 1,
     company: "Nexcore Alliance LLP",
-    role: "Project Manager",
-    year: "2024 - Present",
+    role: "Junior Software Developer -> Team leader",
+    year: "2025 - Present",
     description:
       "Led international projects, managing cross-functional teams to deliver scalable solutions. Oversaw the Exam Portal development, optimizing UI/UX, workflows, and DevOps for seamless deployment. Ensured stakeholder alignment and on-time delivery.",
   },
-  {
-    id: 2,
-    company: "Nexcore Alliance LLP",
-    role: "Mern Stack Developer || DevOps Engineer",
-    year: "2024 - Present",
-    description:
-      "Contributed to various international projects, leveraging the MERN stack to build scalable and high-performance applications. Led the development of an Exam Portal, focusing on responsive UI/UX enhancements, API optimizations, and DevOps integrations for seamless deployment and scalability.",
-  },
-  {
-    id: 3,
-    company: "MarketIQ Junction",
-    role: "UI/UX Designer",
-    year: "2023 - 2024",
-    description:
-      "Worked on UI/UX design using Canva and Figma, creating visually appealing and user-friendly designs. Focused on enhancing user experiences and designing intuitive interfaces for various projects.",
-  },
-  {
-    id: 4,
-    company: "ISRC",
-    role: "Web Developer Intern",
-    year: "2022 - 2023",
-    description:
-      "Developed various projects using Next.js, Tailwind CSS, and Node.js, focusing on responsive and dynamic web applications.",
-  },
+  // {
+  //   id: 2,
+  //   company: "Nexcore Alliance LLP",
+  //   role: "Mern Stack Developer || DevOps Engineer",
+  //   year: "2024 - Present",
+  //   description:
+  //     "Contributed to various international projects, leveraging the MERN stack to build scalable and high-performance applications. Led the development of an Exam Portal, focusing on responsive UI/UX enhancements, API optimizations, and DevOps integrations for seamless deployment and scalability.",
+  // },
+  // {
+  //   id: 3,
+  //   company: "MarketIQ Junction",
+  //   role: "UI/UX Designer",
+  //   year: "2023 - 2024",
+  //   description:
+  //     "Worked on UI/UX design using Canva and Figma, creating visually appealing and user-friendly designs. Focused on enhancing user experiences and designing intuitive interfaces for various projects.",
+  // },
+  // {
+  //   id: 4,
+  //   company: "ISRC",
+  //   role: "Web Developer Intern",
+  //   year: "2022 - 2023",
+  //   description:
+  //     "Developed various projects using Next.js, Tailwind CSS, and Node.js, focusing on responsive and dynamic web applications.",
+  // },
 ];
 
 const Experience = () => {

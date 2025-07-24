@@ -149,7 +149,7 @@ export default function SimplifiedHeroSection() {
   }, []);
 
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/7385841171", "_blank");
+    window.open("https://wa.me/9321739874", "_blank");
   };
 
   return (

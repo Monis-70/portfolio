@@ -192,7 +192,7 @@ const ContactCard = () => {
 
               <div className="mt-12 border-t border-indigo-500/20 pt-6">
                 <p className="text-indigo-200/60 text-sm">
-                  © {new Date().getFullYear()} | Shams Ali Shaikh
+                  © {new Date().getFullYear()} | Monis Mansuri
                 </p>
               </div>
             </div>

@@ -13,7 +13,7 @@ export default function Home() {
       
       <main>
         {/* Hero Section - Shows "shams" when hovered */}
-        <section data-cursor-text="Shams Ali">
+        <section data-cursor-text="Monis Mansuri">
           <HeroBanner />
         </section>
         

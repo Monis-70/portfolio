@@ -107,7 +107,7 @@ const Hero = () => {
           >
             Hello, I'm{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400">
-              Shams Ali Shaikh
+              Monis Mansuri
             </span>
           </motion.h1>
           
@@ -197,8 +197,8 @@ const Hero = () => {
               
               <div className="relative w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 rounded-full border-2 border-indigo-500/30 overflow-hidden shadow-2xl shadow-indigo-500/20 backdrop-blur-sm bg-indigo-900/20">
                 <Image
-                  src="/shamsali.jpg" 
-                  alt="Shams Ali Shaikh"
+                  src="/monis.jpg" 
+                  alt="Monis Mansuri"
                   layout="fill"
                   objectFit="cover"
                   quality={100}

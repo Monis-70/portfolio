@@ -46,7 +46,7 @@ export default function CursorTrail() {
       setCursorState('hover');
       setIsHovering(true);
     } else {
-      setText('Shams Ali');
+      setText('Monis Mansuri');
       setCursorState('default');
       setIsHovering(false);
     }

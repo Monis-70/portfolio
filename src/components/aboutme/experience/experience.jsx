@@ -54,7 +54,7 @@ const Experience = () => {
               height: Math.random() * 300 + 100,
               opacity: 0.1
             }}
-            animate={{
+            animate={{ 
               x: [null, Math.random() * 100 - 50],
               y: [null, Math.random() * 100 - 50],
               opacity: [0.1, 0.15, 0.1]
